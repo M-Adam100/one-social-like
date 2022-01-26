@@ -6,10 +6,12 @@ button {
     text-transform: uppercase;
 	letter-spacing: 1px;
 	margin-right: 10px;
+	margin-bottom: 5px;
 	border: 1px solid rgba(0, 0, 0, 0.075);
 	border-radius: 0;
 	background: rgb(87, 114, 227);
 	color: rgb(255, 255, 255);
+	width: 100%;
 }
 button.full-width {
 	width: 100%;
